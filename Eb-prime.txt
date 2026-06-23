@@ -1315,12 +1315,12 @@ CIE:
     --  SIDEBAR TABS
     -- ════════════════════════════════════════
     local TABS={
-        {name="Jogador",        ico="👤", lbl="Jogador"},
+        {name="Jogador",        ico="🤯", lbl="Jogador"},
         {name="AutoJJS",        ico="🏋️", lbl="Auto JJS"},
         {name="Aimbot",         ico="🎯", lbl="Aimbot"},
         {name="FOV",            ico="👁️", lbl="FOV"},
         {name="Visuals",        ico="✨", lbl="Visuals"},
-        {name="Parkour",        ico="🧱", lbl="Parkour"},
+        {name="Parkour",        ico="🥷", lbl="Parkour"},
         {name="FPS",            ico="⚡", lbl="FPS Boost"},
         {name="TAF",            ico="📋", lbl="TAF"},
         {name="Personalização", ico="🎨", lbl="Visual"},

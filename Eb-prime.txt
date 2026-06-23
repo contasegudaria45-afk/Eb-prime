@@ -1043,9 +1043,9 @@ CIE:
 
     local cBI=Card(pages["TAF"],6); tafCards["BI CAAT"]=cBI
     CardTitle(cBI,"BI CAAT",C.A,0)
-    AddTafCopy(cBI,"Cmdte e Sub","Comandante: Plk_Ln17. e Subcomandante: SuSujapa976.",1)
-    AddTafCopy(cBI,"Comandante","Plk_Ln17.",2)
-    AddTafCopy(cBI,"Subcomandante","SuSujapa976.",3)
+    AddTafCopy(cBI,"Cmdte e Sub","Comandante: Susujapa976. e Subcomandante: PATODONOTE.",1)
+    AddTafCopy(cBI,"Comandante","Susujapa976.",2)
+    AddTafCopy(cBI,"Subcomandante","PATODONOTE.",3)
     AddTafCopy(cBI,"Lema","O pai cria, a mãe educa e a Caatinga elimina.",4)
 
     -- Aplica o filtro salvo depois que todos os cards foram criados.
